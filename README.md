@@ -11,8 +11,6 @@
 
 This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
 
-***[Mentor: Pankaj Kapoor](https://github.com/pankkap)***
-
 <hr />
 
       
@@ -90,21 +88,21 @@ The main objective of the project is to create a website using MERN STACK techno
 ## PART - 1 : -
 
 The Part 1 was divided into 5 phases:
-phase - 1 :( 15 July 2020 **–** 18 July 2020)
+phase - 1 :
 
 - Motive Declaration and resource gathering
 - Analyzing Different travelling Blogs
 - Understanding working of a tour and travel Website.
 
 ```
-phase-2 : (18 July 2020 - 10 October 2020)
+phase-2 :
 ```
 - Basic Skelton making of the project
 - index page designing
 - user validation and access generation (login signup)
 - designing pages for authorised and non authorised user.
 ```
-phase -3 : (10 Oct 2020 **–** 22 Nov 2020)
+phase -3 : 
 ```
 - Creating all the type of places.
 - creating cities page
@@ -112,28 +110,28 @@ phase -3 : (10 Oct 2020 **–** 22 Nov 2020)
 - linking videoLink to each destination
 - add overlay to each place for more detail
 ```
-phase 4: ( 22 Nov 2020 - 28 Nov 2020)
+phase 4: 
 ```
 - Adding setting service to the user.
 - adding details about us.
 - adding contact page to reach us and booking service.
 - linking each page and making final touch up to each page
 ```
-phase 5: ( 2 Dec 2020)
+phase 5: 
 ```
 Deployment of fully working frontend website to GitHub pages.
 
 ## PART - 2 : -
 
 ```
-phase - 1 :( 15 Jan 2021 – 31 March 2021 )
+phase - 1 :
 ```
 - Understanding MERN Stack Technologies.
 - Got skilled in MongoDB and React.
 - Sharpen skills in NodeJS and ExpressJS.
 
 ```
-phase-2 : ( 1 April 2021 - 20 April 2021 )
+phase-2 :
 ```
 - Basic Skelton making of the backend /API.
 - user validation and access generation (login signup)
@@ -148,7 +146,7 @@ phase-2 : ( 1 April 2021 - 20 April 2021 )
 ## PART - 3 : -
 
 ```
-phase - 1 :( 20 April 2021 – 30 April 2021 )
+phase - 1 :
 ```
 - Created React App.
 - Designed functional component for navigation bar, carousal, homepage, footer ,
@@ -180,17 +178,7 @@ phase-2 : ( 30 April 2021 - 10 May 2021 )
 
 ### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
-The following dependencies can be found in [package.json](https://github.com/shsarv/TravelYaari-react/blob/master/package.json):
-
 ### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/TravelYaari-react/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/TravelYaari-react/commits?author=shsarv" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/sachi42"><img src="https://avatars.githubusercontent.com/u/61285008?v=4" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari-react/commits?author=sachi42" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars.githubusercontent.com/u/61418608?v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar Jha</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari-react/commits?author=satyamjha1710" title="Code">💻</a></td>
-   <tr>
-    <table>
       
 
 
